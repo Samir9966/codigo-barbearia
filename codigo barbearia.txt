@@ -1,13 +1,21 @@
 def agendar_serviço():
-    print(Bem-vindo a barbearia dos Irmão Metralha! Fiquem a vontade para agendar.")
+    print(Bem-vindo a barbearia dos Irmãos Metralha! Fiquem a vontade para agendar hoje mesmo.")
     print("Nome:")
     print("Celular:")
     print("Data:")
     print("Tipo de corte:")
     print("selecione o barbeiro:")
-     print("Selecione o barbeiro:")
+    print("seleciona a forma de pegamento")
      
      def barbeiro():
-        Nome = input("Digite o seu Nome: ")
+        Nome = input("Digite o seu Nome:")
         Celular = input ("Digite o seu Celular:")
+        Data = input ("Digite a data do corte:")
+        Tipo do corte = input  ("selecione o tipo do corte:")
+        Selecione o barbeiro input = ("nome do barbeiro:")
+        selecione a forma de pagamento  input = ("forma de pagamento")
+        
+    
+        
+        
     
