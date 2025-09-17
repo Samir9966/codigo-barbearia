@@ -1,0 +1,13 @@
+def agendar_serviço():
+    print(Bem-vindo a barbearia dos Irmão Metralha! Fiquem a vontade para agendar.")
+    print("Nome:")
+    print("Celular:")
+    print("Data:")
+    print("Tipo de corte:")
+    print("selecione o barbeiro:")
+     print("Selecione o barbeiro:")
+     
+     def barbeiro():
+        Nome = input("Digite o seu Nome: ")
+        Celular = input ("Digite o seu Celular:")
+    
